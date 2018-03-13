@@ -30,9 +30,9 @@ In case of failure, the tickets are not refunded.
 
 #### Party
 
-tba
+:musical_note::musical_note::musical_note::musical_note::musical_note:
 
-
+TBA.
 
 #### Schedule
 
