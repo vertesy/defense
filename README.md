@@ -30,9 +30,7 @@ In case of failure, the tickets are not refunded.
 
 #### Party
 
-:musical_note::musical_note::musical_note::musical_note::musical_note:
-
-TBA.
+At our place: Johannes de Bekastraat 4bis
 
 #### Schedule
 
@@ -41,4 +39,4 @@ TBA.
 | 12:45 -13:45  | Defense in the Senaatzaal (first floor)                    |
 | 13:45 -14:45  | Reception @ a bar close by                                 |
 | 16:30 -18:30  | Dinner with the committee                                  |
-| 19:30 - ∞     | Party @ ...                                                |
+| 19:30 - ∞     | Party @ Johannes de Bekastraat 4bis                        |
